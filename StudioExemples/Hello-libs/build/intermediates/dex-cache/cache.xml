@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_bbf1eed01c96b0e37915a72abba0685cebe04523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_d2c95b81bfbc1dee244cacdf87e97e11cb3782c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_77c0dc0037dc18507c12c91c223fab903d203b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3bdb9dad2828e3537e356b47ec344ea7fc8a1a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bamtori/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha7_3fe47fcaffc8847989e5773f7d3275610fad845f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bamtori/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_73ab692394a426f2bda3efc1bb24a71b516be772.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f0fcbf410d2bd01bea4e2f84cb1080cabb622f67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha7_e0b1f8c312b16b30e58a0ac4fbd9eaff1f5c646b.jar" />
+    </item>
+
+</items>

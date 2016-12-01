@@ -1,0 +1,5 @@
+# ninja log v5
+0	15	0	CMakeFiles/sanangeles.dir/importgl.c.o	8081a276fb9375ca
+0	36	0	CMakeFiles/sanangeles.dir/app-android.c.o	7bcc3bcdea06b458
+0	110	0	CMakeFiles/sanangeles.dir/demo.c.o	f78a449b7919a877
+110	150	0	/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/build/intermediates/cmake/debug/obj/mips/libsanangeles.so	bfb2cefed13ba2c8

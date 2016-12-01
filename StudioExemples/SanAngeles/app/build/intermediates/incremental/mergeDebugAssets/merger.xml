@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/src/main/assets"/><source path="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/src/debug/assets"/></dataSet></merger>

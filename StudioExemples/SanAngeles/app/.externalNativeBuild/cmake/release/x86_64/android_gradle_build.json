@@ -1,0 +1,53 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/home/bamtori/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/.externalNativeBuild/cmake/release/x86_64 --target clean"
+	],
+	"libraries" : 
+	{
+		"sanangeles-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "sanangeles",
+			"buildCommand" : "/home/bamtori/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/.externalNativeBuild/cmake/release/x86_64 --target sanangeles",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --sysroot=/home/bamtori/Android/Sdk/ndk-bundle/platforms/android-21/arch-x86_64 -Dsanangeles_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC   -DANDROID_NDK -DDISABLE_IMPORTGL    -c ",
+					"src" : "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/src/main/cpp/app-android.c",
+					"workingDirectory" : "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/.externalNativeBuild/cmake/release/x86_64"
+				},
+				
+				{
+					"flags" : "  --sysroot=/home/bamtori/Android/Sdk/ndk-bundle/platforms/android-21/arch-x86_64 -Dsanangeles_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC   -DANDROID_NDK -DDISABLE_IMPORTGL    -c ",
+					"src" : "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/src/main/cpp/demo.c",
+					"workingDirectory" : "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/.externalNativeBuild/cmake/release/x86_64"
+				},
+				
+				{
+					"flags" : "  --sysroot=/home/bamtori/Android/Sdk/ndk-bundle/platforms/android-21/arch-x86_64 -Dsanangeles_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -Wall -Werror -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC   -DANDROID_NDK -DDISABLE_IMPORTGL    -c ",
+					"src" : "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/src/main/cpp/importgl.c",
+					"workingDirectory" : "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/build/intermediates/cmake/release/obj/x86_64/libsanangeles.so",
+			"toolchain" : "7259623731162957986"
+		}
+	},
+	"toolchains" : 
+	{
+		"7259623731162957986" : 
+		{
+			"cCompilerExecutable" : "/home/bamtori/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64/bin/x86_64-linux-android-gcc",
+			"cppCompilerExecutable" : "/home/bamtori/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/linux-x86_64/bin/x86_64-linux-android-g++"
+		}
+	}
+}

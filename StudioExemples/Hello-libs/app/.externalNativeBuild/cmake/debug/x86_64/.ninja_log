@@ -1,0 +1,3 @@
+# ninja log v5
+0	74	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	33b5ce3b97c685ae
+74	86	0	/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	1db4cfe6fafd6a01

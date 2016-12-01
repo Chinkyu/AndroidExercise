@@ -1,0 +1,7 @@
+# ninja log v5
+0	3692	0	CMakeFiles/echo.dir/audio_common.cpp.o	656ecc1125b10831
+0	3714	0	CMakeFiles/echo.dir/audio_recorder.cpp.o	d40ddeaa65eac45a
+0	3733	0	CMakeFiles/echo.dir/audio_main.cpp.o	f6e822bfd743035b
+0	3740	0	CMakeFiles/echo.dir/audio_player.cpp.o	fdb642acee832886
+0	3746	0	CMakeFiles/echo.dir/debug_utils.cpp.o	2a9c155335862d42
+3746	4959	0	/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Audio-Echo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libecho.so	201bef5d68fd85d0

@@ -1,0 +1,3 @@
+/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Hello-libs/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/hello-libs.dir

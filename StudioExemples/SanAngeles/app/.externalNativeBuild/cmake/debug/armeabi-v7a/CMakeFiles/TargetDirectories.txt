@@ -1,0 +1,3 @@
+/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/SanAngeles/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/sanangeles.dir
