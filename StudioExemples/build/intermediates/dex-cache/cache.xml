@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_ed1df868b2ad8ceecd2e72d0be4a7a8d7a96788d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_25b3d4b0fd1769a48c3d916e93112a89980155f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e6de8a9fda77a89bf47a42de39e4f744e02e7b13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_d60b5fecf486373e2c63ff5abbcf69d56cd30ffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ac2250825679b7dcd68943e2f132f76012efeaa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_0295b02e82cf54081c057b480ca739eb02b58795/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_6af03c20f6915e78cb992d228285a25ae2bf4090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_54058daf14ac0159b010df058b56a503ecc9b945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1d5400d56c3e2fb20fddda9bca576de1b4223b1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0adc3df1f9031e3ecca5ade20faff810df8e8d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_74f2fc75e3f25eea6debf4ca0db29323e791d048/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6cde6ca2ee303e105b56a41e37ba6f5ed590fd3">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_074ae013913be303dad79fd92a2c3a432b4ef36e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_48120bc56de94399bfe894fa98a29581cecd442e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_799c037aa1c52efdec3288a72d33b5bf7d17f084/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_5682af5b9fd11e31ba40fb96d5232b51983a295e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_3fb879f6a782f6aefe48ef3fb8e2fd139abd4d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_5c470b6d193a469fffaa99ffe1337453bb8770b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d594d3ad08a546bc1219f69c668410e2cc0c9cbf">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc8e9519aca2ca3577c59f61def6af76e75afdc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_e9e98af0a116c71893dfadf0c6f3bbcc9747d399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_859bb16e1ef88b23951f1ada3e97e697a62bdf17/classes.dex" />
+    </item>
+
+</items>

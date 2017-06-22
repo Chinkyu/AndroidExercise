@@ -1,0 +1,7 @@
+#Sat Dec 17 21:25:01 KST 2016
+base.0=/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_074ae013913be303dad79fd92a2c3a432b4ef36e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc8e9519aca2ca3577c59f61def6af76e75afdc5/classes.dex
+base.1=/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc8e9519aca2ca3577c59f61def6af76e75afdc5
+file.0=/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_074ae013913be303dad79fd92a2c3a432b4ef36e/classes.dex

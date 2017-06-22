@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/intermediates/res/merged/debug/raw/cat_names.txt",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/src/main/res/raw/cat_names.txt"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_pumpkins_fall.jpg",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/src/main/res/raw/android_pumpkins_fall.jpg"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_computer_back.jpg",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/src/main/res/raw/android_computer_back.jpg"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_dinner.jpg",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/src/main/res/raw/android_dinner.jpg"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_computer_android_studio.jpg",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/src/main/res/raw/android_computer_android_studio.jpg"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/intermediates/res/merged/debug/raw/example.docx",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/src/main/res/raw/example.docx"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_rose.jpg",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/src/main/res/raw/android_rose.jpg"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/intermediates/res/merged/debug/raw/dog_names.txt",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/src/main/res/raw/dog_names.txt"
+    }
+]

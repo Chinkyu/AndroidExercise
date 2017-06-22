@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="25351429968846"
+    token="-8924507705486443850"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="357" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="103" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="25351429968846"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/StorageProvider/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

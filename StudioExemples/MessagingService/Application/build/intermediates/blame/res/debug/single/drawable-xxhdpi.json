@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/notification_icon.png",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/MessagingService/Application/src/main/res/drawable-xxhdpi/notification_icon.png"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/MessagingService/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/android_contact.png",
+        "source": "/home/bamtori/work/GITHUB/AndroidExercise/StudioExemples/MessagingService/Application/src/main/res/drawable-xxhdpi/android_contact.png"
+    }
+]

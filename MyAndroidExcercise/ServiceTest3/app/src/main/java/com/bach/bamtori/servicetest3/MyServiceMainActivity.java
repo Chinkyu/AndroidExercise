@@ -110,7 +110,7 @@ public class MyServiceMainActivity extends AppCompatActivity {
         public void onServiceConnected(ComponentName componentName, IBinder iBinder) {
             mService = new Messenger(iBinder);
             mBound = true;
-        }
+        }LocalBinder
 
         @Override
         public void onServiceDisconnected(ComponentName componentName) {

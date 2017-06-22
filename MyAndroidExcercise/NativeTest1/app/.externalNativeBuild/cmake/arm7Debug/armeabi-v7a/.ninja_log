@@ -1,0 +1,6 @@
+# ninja log v5
+0	125	0	CMakeFiles/main-jni.dir/NQueenBT.cpp.o	cc42d852106cf300
+0	197	0	CMakeFiles/main-jni.dir/main-jni.cpp.o	5d4d8c6dd01c462
+197	207	0	/home/bamtori/WORK/GITHUB/AndroidExercise/MyAndroidExcercise/NativeTest1/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libmain-jni.so	d1d9f4a961f0fb1a
+0	22	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	29ec4c7231e1519a
+22	31	0	/home/bamtori/WORK/GITHUB/AndroidExercise/MyAndroidExcercise/NativeTest1/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libhello-jni.so	1ac08b1912ccb53c
