@@ -1,4 +1,0 @@
-/home/bamtori/WORK/GITHUB/AndroidExercise/MyAndroidExcercise/NativeTest1/app/.externalNativeBuild/cmake/arm8Debug/arm64-v8a/CMakeFiles/edit_cache.dir
-/home/bamtori/WORK/GITHUB/AndroidExercise/MyAndroidExcercise/NativeTest1/app/.externalNativeBuild/cmake/arm8Debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/home/bamtori/WORK/GITHUB/AndroidExercise/MyAndroidExcercise/NativeTest1/app/.externalNativeBuild/cmake/arm8Debug/arm64-v8a/CMakeFiles/main-jni.dir
-/home/bamtori/WORK/GITHUB/AndroidExercise/MyAndroidExcercise/NativeTest1/app/.externalNativeBuild/cmake/arm8Debug/arm64-v8a/CMakeFiles/hello-jni.dir
